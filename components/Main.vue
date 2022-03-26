@@ -26,9 +26,12 @@
         </div>
         <div class="first text-6xl h-screen pt-72">
           <div class="py-2 flex">
-            <a href="https://github.com/enryleinhard"><img class="h-10 w-10 mr-6" src="https://i.ibb.co/2gvsrRy/github.png" alt=""></a>
-            <a href="https://www.linkedin.com/in/enryl-einhard-5213541b3/"><img class="h-10 w-10 mr-6" src="https://i.ibb.co/pjszWTN/linkedin.png" alt=""></a>
-            <a href="mailto:enryl.einhard@gmail.com"><img class="h-11 w-11" src="https://i.ibb.co/Y7RBBmn/icons8-mail-100.png" alt=""></a>
+            <a href="https://github.com/enryleinhard"><img class="h-10 w-10 mt-2 mr-6" src="https://i.ibb.co/2gvsrRy/github.png" alt=""></a>
+            <a href="https://www.linkedin.com/in/enryl-einhard-5213541b3/"><img class="h-10 w-10 mt-2 mr-6" src="https://i.ibb.co/pjszWTN/linkedin.png" alt=""></a>
+            <a href="mailto:enryl.einhard@gmail.com"><svg class="h-14 w-14 " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+  <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
+  <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
+</svg></a>
           </div>
           <span class="">
             enryleinhard
@@ -144,9 +147,12 @@
           </div>
           <div class="text-xl about-2 px-8">
             <div class="py-2 flex">
-            <a class="flex" href="https://github.com/enryleinhard"><img class="h-10 w-10 mr-6" src="https://i.ibb.co/2gvsrRy/github.png" alt=""></a>
-            <a href="https://www.linkedin.com/in/enryl-einhard-5213541b3/"><img class="h-10 w-10 mr-6" src="https://i.ibb.co/pjszWTN/linkedin.png" alt=""></a>
-            <a href="mailto:enryl.einhard@gmail.com"><img class="h-11 w-11" src="https://i.ibb.co/Y7RBBmn/icons8-mail-100.png" alt=""></a>
+            <a class="flex" href="https://github.com/enryleinhard"><img class="h-10 w-10 mt-2 mr-6" src="https://i.ibb.co/2gvsrRy/github.png" alt=""></a>
+            <a href="https://www.linkedin.com/in/enryl-einhard-5213541b3/"><img class="h-10 w-10 mt-2 mr-6" src="https://i.ibb.co/pjszWTN/linkedin.png" alt=""></a>
+            <a href="mailto:enryl.einhard@gmail.com"><svg class="h-14 w-14 " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+  <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
+  <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
+</svg></a>
           </div>
           </div>
         </div>
