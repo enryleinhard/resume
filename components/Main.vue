@@ -176,7 +176,7 @@ export default {
           start: "+=133 80%",
           end: "+=10 0%",
           scrub: true,
-          markers: true,
+          // markers: true,
           toggleActions: "play reverse play reverse",
         }
         
