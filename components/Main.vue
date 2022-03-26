@@ -28,7 +28,7 @@
           <div class="py-2 flex">
             <a href="https://github.com/enryleinhard"><img class="h-10 w-10 mr-6" src="https://i.ibb.co/2gvsrRy/github.png" alt=""></a>
             <a href="https://www.linkedin.com/in/enryl-einhard-5213541b3/"><img class="h-10 w-10 mr-6" src="https://i.ibb.co/pjszWTN/linkedin.png" alt=""></a>
-            <a href="mailto:enryl.einhard@gmail.com"><img class="h-11 w-11" src="https://i.ibb.co/cX2GPxp/mail.png" alt=""></a>
+            <a href="mailto:enryl.einhard@gmail.com"><img class="h-11 w-11" src="https://i.ibb.co/Y7RBBmn/icons8-mail-100.png" alt=""></a>
           </div>
           <span class="">
             enryleinhard
@@ -38,7 +38,7 @@
           </p>
         </div>
         <div class="h-screen content">
-          <div class="about-1 text-5xl pt-40">
+          <div id="about" class="about-1 text-5xl pt-40">
             <p><span>.about</span><span class="text-green-400">()</span></p>
           </div>
           <div class="text-xl about-2 px-8 py-8">
@@ -53,7 +53,7 @@
           </div>
         </div>
         <div class="h-screen content">
-          <div class="about-1 text-5xl pt-40">
+          <div id="projects" class="about-1 text-5xl pt-40">
             <p><span>.projects</span><span class="text-green-400">()</span></p>
           </div>
           <div class="text-xl about-2 px-8 py-8">
@@ -76,7 +76,7 @@
         </div>
         <div class="h-96"></div>
         <div class="h-screen content">
-          <div class="about-1 text-5xl pt-40">
+          <div id="experiences" class="about-1 text-5xl pt-40">
             <p><span>.experiences</span><span class="text-green-400">()</span></p>
           </div>
           <div class="text-xl about-2 px-8 py-8">
@@ -99,7 +99,7 @@
         </div>
         <div class="h-60 "></div>
         <div class="h-screen content">
-          <div class="about-1 text-5xl pt-60">
+          <div id="history" class="about-1 text-5xl pt-60">
             <p><span>.history</span><span class="text-green-400">()</span></p>
           </div>
           <div class="text-xl about-2 px-8 py-8">
@@ -134,7 +134,7 @@
         </div>
         <div class="h-80 "></div>
         <div class="h-screen content">
-          <div class="about-1 text-5xl pt-40">
+          <div id="contact" class="about-1 text-5xl pt-40">
             <p><span>.contact</span><span class="text-green-400">()</span></p>
           </div>
           <div class="text-xl about-2 px-8 pt-8 pb-4">
@@ -146,7 +146,7 @@
             <div class="py-2 flex">
             <a class="flex" href="https://github.com/enryleinhard"><img class="h-10 w-10 mr-6" src="https://i.ibb.co/2gvsrRy/github.png" alt=""></a>
             <a href="https://www.linkedin.com/in/enryl-einhard-5213541b3/"><img class="h-10 w-10 mr-6" src="https://i.ibb.co/pjszWTN/linkedin.png" alt=""></a>
-            <a href="mailto:enryl.einhard@gmail.com"><img class="h-11 w-11" src="https://i.ibb.co/cX2GPxp/mail.png" alt=""></a>
+            <a href="mailto:enryl.einhard@gmail.com"><img class="h-11 w-11" src="https://i.ibb.co/Y7RBBmn/icons8-mail-100.png" alt=""></a>
           </div>
           </div>
         </div>
