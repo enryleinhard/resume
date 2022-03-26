@@ -8,19 +8,19 @@
           </div>
           <div class="sub-header-2 flex">
             <div class="pr-6">
-              <a href=""><span>.about</span><span class="text-green-400">()</span></a>
+              <a href="#about"><span>.about</span><span class="text-green-400">()</span></a>
             </div>
             <div class="pr-6">
-              <a href=""><span>.projects</span><span class="text-green-400">()</span></a>
+              <a href="#projects"><span>.projects</span><span class="text-green-400">()</span></a>
             </div>
             <div class="pr-6">
-              <a href=""><span>.experiences</span><span class="text-green-400">()</span></a>
+              <a href="#experiences"><span>.experiences</span><span class="text-green-400">()</span></a>
             </div>
             <div class="pr-6">
-              <a href=""><span>.history</span><span class="text-green-400">()</span></a>
+              <a href="#history"><span>.history</span><span class="text-green-400">()</span></a>
             </div>
             <div class="flex">
-              <a href=""><span>.contact</span><span class="text-green-400">()</span></a>
+              <a href="#contact"><span>.contact</span><span class="text-green-400">()</span></a>
             </div>  
           </div>
         </div>
