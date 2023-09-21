@@ -11,7 +11,10 @@
               <a href="#about"><span>.about</span><span class="text-green-400">()</span></a>
             </div>
             <div class="pr-6">
-              <a href="#projects"><span>.projects</span><span class="text-green-400">()</span></a>
+              <a href="#work-experiences"><span>.work_experiences</span><span class="text-green-400">()</span></a>
+            </div>
+            <div class="pr-6">
+              <a href="#competitions"><span>.competitions</span><span class="text-green-400">()</span></a>
             </div>
             <div class="pr-6">
               <a href="#experiences"><span>.experiences</span><span class="text-green-400">()</span></a>
@@ -28,7 +31,7 @@
           <div class="py-2 flex">
             <a href="https://github.com/enryleinhard"><img class="h-10 w-10 mt-2 mr-6" src="https://i.ibb.co/2gvsrRy/github.png" alt=""></a>
             <a href="https://www.linkedin.com/in/enryl-einhard-5213541b3/"><img class="h-10 w-10 mt-2 mr-6" src="https://i.ibb.co/pjszWTN/linkedin.png" alt=""></a>
-            <a href="mailto:enryl.einhard@gmail.com"><svg class="h-14 w-14 " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+            <a href="mailto:enryl.einhard@outlook.com"><svg class="h-14 w-14 " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
   <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
   <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
 </svg></a>
@@ -46,38 +49,68 @@
           </div>
           <div class="text-xl about-2 px-8 py-8">
             <p>
-              hi!, welcome to my website. I'm an aspiring software engineer based in <span class="text-green-400">Hong Kong SAR</span>. Currently, I am a freshman student studying in <span class="text-green-400">City University of Hong Kong</span> majoring in <span class="text-green-400">Data Science</span>. I've been doing programming for the past 3 years. I'm always looking for <span class="text-green-400">new opportunities</span>.
+              hi!, welcome to my website. I'm an aspiring software engineer based in <span class="text-green-400">Hong Kong SAR</span>. Currently, I am a penultimate studying in <span class="text-green-400">City University of Hong Kong</span> majoring in <span class="text-green-400">Computer Science</span>. I'm always looking for <span class="text-green-400">new opportunities</span>.
             </p>
           </div>
           <div class="text-xl about-3 px-8 py-8">
             <p>
-              here are some of my expertise : <span class="text-green-400">Python , Javascript, Vue.JS , GraphQL, Tailwind, MongoDB, Git</span>.
+              here are some of my expertise : <span class="text-green-400">TypeScript, JavaScript, Python, React, Vue, GraphQL</span>.
             </p>
           </div>
         </div>
         <div class="h-screen content">
-          <div id="projects" class="about-1 text-5xl pt-40">
-            <p><span>.projects</span><span class="text-green-400">()</span></p>
+          <div id="work-experiences" class="about-1 text-5xl pt-40">
+            <p><span>.work_experiences</span><span class="text-green-400">()</span></p>
           </div>
           <div class="text-xl about-2 px-8 py-8">
             <p>
-              here is a list of my creations, 
+             a history of my industry experience, an a short achievement
             </p>
           </div>
           <div class="text-xl about-2 px-8 p-6">
-            - <a href="https://farmaplus.kemkes.go.id/" class="text-green-400">farmaplus.kemkes.go.id</a> - A prescription drugs and supplies website for the Ministry of Health of the Republic of Indonesia. This website was made to combat the shortage of information about prescription drugs stocks in a particular city, province, or pharmacy during the COVID-19 pandemic. Made using Vue.js, Tailwind, and Strapi.
+            - <span class="text-green-400">Software Engineer Intern</span> - EventX - Hong Kong | Jun 2023 - Present
+            <p class="p-2 ml-8"> -> Developed new features for EventX event management web application with React and Node.js</p>
           </div>
           <div class="text-xl about-2 px-8 p-6">
-            - <a href="https://yayasanstaging.techkyra.com/" class="text-green-400">yayasanstaging.techkyra.com</a> - A website for a non-profit organization called Yayasan Santa Adeline Kasih based in Indonesia. This website was made to showcase the activities of the organization. Made using Vue.js, Tailwind, and Strapi.
+            - <span class="text-green-400">Product Engineer Intern</span> - uHey Limited - Hong Kong | Jun 2022 - Aug 2022
+            <p class="p-2 ml-8"> -> Created and developed a full-stack mobile application to manage and automate the configuration of beacon trackers, removing dependency from third-party software and manual configuration for 1,000 beacons</p>
           </div>
           <div class="text-xl about-2 px-8 p-6">
-            - <a href="https://risetaistaging.techkyra.com/" class="text-green-400">risetaistaging.techkyra.com</a> - A replacement website for a company called riset.ai based in Indonesia. This website was made to introduce the company, and to showcase the activities and products of the company. Made using Vue.js, Tailwind, and Strapi.
+            - <span class="text-green-400">Software Engineer Intern</span> - YX Digital - Jakarta(Remote) | Jan 2022 - Aug 2022
+            <p class="p-2 ml-8"> -> Created and developed the back-testing system using Python to analyze in-house proprietary trading strategy for Indonesian stock market</p>
           </div>
-          <div class="text-xl about-2 px-8 p-6"> 
-            - <a href="https://staging.techkyra.com/" class="text-green-400">staging.techkyra.com</a> - A replacement website for a company called Jas Kapital based in Indonesia. This website was made to showcase the activities and the products of the company.  Made using Vue.js, Tailwind, and Strapi.
+          <div class="text-xl about-2 px-8 p-6">
+            - <span class="text-green-400">Software Engineer Intern</span> - Ministry of Health - Jakarta | Jul 2021 - Dec 2021
+            <p class="p-2 ml-8"> -> Created website and API to help and provide Indonesian citizen with easier and centralized access of COVID-19 related drugs/supplement stocks from 17 pharmacies and 18 different types of drugs/supplements</p>
           </div>
         </div>
         <div class="h-96"></div>
+        <div class="h-screen content">
+          <div id="competitions" class="about-1 text-5xl pt-40">
+            <p><span>.competitions</span><span class="text-green-400">()</span></p>
+          </div>
+          <div class="text-xl about-2 px-8 py-8">
+            <p>
+              list of my competition achievements, 
+            </p>
+          </div>
+          <div class="text-xl about-2 px-8 p-6">
+            - <span class="text-green-400">3rd Place Award</span> @ HackUST 2023 - Hong Kong
+          </div>
+          <div class="text-xl about-2 px-8 p-6">
+            - <span class="text-green-400">Champion & Most Creative</span> @ CityHack 2023 - Hong Kong
+          </div>
+          <div class="text-xl about-2 px-8 p-6">
+            - <span class="text-green-400">Best Fintech Award</span> @ PolyHack 2022 - Hong Kong
+          </div>
+          <div class="text-xl about-2 px-8 p-6">
+            - <span class="text-green-400">3rd Place Award</span> @ HackUST 2022 - Hong Kong
+          </div>
+          <div class="text-xl about-2 px-8 p-6">
+            - <span class="text-green-400">2nd Runner Up</span> @ CityHack 2022 - Hong Kong
+          </div>
+        </div>
+        <div class="h-60"></div>
         <div class="h-screen content">
           <div id="experiences" class="about-1 text-5xl pt-40">
             <p><span>.experiences</span><span class="text-green-400">()</span></p>
@@ -126,7 +159,7 @@
             <pre>
   {
   <span class="text-yellow-300">"university"</span> = <span class="text-green-400">'City University of Hong Kong'</span>,
-  <span class="text-yellow-300">"major"</span> = <span class="text-green-400">'Data Science'</span>,
+  <span class="text-yellow-300">"major"</span> = <span class="text-green-400">'Computer Science'</span>,
   <span class="text-yellow-300">"location"</span> = <span class="text-green-400">'Hong Kong SAR'</span>,
   <span class="text-yellow-300">"information"</span> = [<span class="text-green-400">'Full Tuition Scholarship Awardee'</span>]
   },
@@ -149,7 +182,7 @@
             <div class="py-2 flex">
             <a class="flex" href="https://github.com/enryleinhard"><img class="h-10 w-10 mt-2 mr-6" src="https://i.ibb.co/2gvsrRy/github.png" alt=""></a>
             <a href="https://www.linkedin.com/in/enryl-einhard-5213541b3/"><img class="h-10 w-10 mt-2 mr-6" src="https://i.ibb.co/pjszWTN/linkedin.png" alt=""></a>
-            <a href="mailto:enryl.einhard@gmail.com"><svg class="h-14 w-14 " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+            <a href="mailto:enryl.einhard@outlook.com"><svg class="h-14 w-14 " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
   <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
   <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
 </svg></a>
@@ -162,8 +195,6 @@
 </template>
 
 <script>
-// import gsap
-
 export default {
   name: 'Main',
   methods: {
@@ -194,6 +225,7 @@ export default {
         .to(elem, { opacity: 0, duration: 0.2 }, 0.8 )
       ;
     })
+    
     }
   },
   mounted() {
